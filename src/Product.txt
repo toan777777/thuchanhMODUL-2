@@ -1,0 +1,6 @@
+Product{masp=3, name='dfsgdsf', price=322.0, quantity=21}
+
+Product{masp=1, name='gdfg', price=454.0, quantity=22}
+
+Product{masp=2, name='hgh', price=545.0, quantity=65}
+

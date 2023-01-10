@@ -1,0 +1,3 @@
+Product{masp=3, name='yht', price=12.0, quantity=22}
+Product{masp=1, name='rfr', price=555.0, quantity=332}
+Product{masp=2, name='jyj', price=566.0, quantity=24}
